@@ -89,10 +89,10 @@ header nav ul li a {
 	display: block; width: 212px; height: 143px;
 	margin: 0 0 32px 0; text-indent: -9999px;
 }
-#content #sun { background: url(images/sun.jpg); }
-#content #sport { background: url(images/sport.jpg); }
-#content #tech { background: url(images/tech.jpg); }
-#content #special { background: url(images/special.jpg); }
+#content #sun { background: url(images/game-ace.png); }
+#content #sport { background: url(images/webgl-df.png); }
+#content #tech { background: url(images/web.png); }
+#content #special { background: url(images/game-banana-madness.png); }
 
 #content #sun:hover, #content #sport:hover, #content #tech:hover, #content #special:hover {
 	background-position: 0 -143px;
